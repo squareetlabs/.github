@@ -1,4 +1,4 @@
-# SquareetLabd
+# SquareetLabs
 
 [Squareet](https://www.squareet.com) es una empresa especializada en el desarrollo de soluciones tecnológicas a medida, ayudando a diferentes sectores a optimizar sus procesos y a impulsar su transformación digital. Nuestro objetivo es acompañar a organizaciones en la implementación de estrategias eficientes y sostenibles, a través de servicios innovadores y un enfoque centrado en la excelencia técnica.
 
