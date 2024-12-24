@@ -1,30 +1,30 @@
-# SquareetLabs
+# SquareetLabd
 
-[Squareet](https://squareet.com) es una empresa especializada en el desarrollo de soluciones tecnológicas a medida, acompañando a organizaciones de distintos sectores en su proceso de transformación digital. Nuestro objetivo es ayudar a empresas y emprendedores a optimizar sus procesos, potenciar su crecimiento y sacar el máximo partido a las nuevas tecnologías.
+[Squareet](https://www.squareet.com) es una empresa especializada en el desarrollo de soluciones tecnológicas a medida, ayudando a diferentes sectores a optimizar sus procesos y a impulsar su transformación digital. Nuestro objetivo es acompañar a organizaciones en la implementación de estrategias eficientes y sostenibles, a través de servicios innovadores y un enfoque centrado en la excelencia técnica.
 
 ## Servicios
 
-- [Desarrollo de aplicaciones para móviles](https://squareet.com/desarrollo-de-aplicaciones-para-moviles)  
-  Creamos apps funcionales y atractivas para Android y iOS, ajustadas a las necesidades específicas de cada proyecto.
-
-- [Desarrollo de software a medida](https://squareet.com/desarrollo-de-software)  
-  Diseñamos soluciones personalizadas que se adaptan perfectamente a la operativa de tu negocio, garantizando escalabilidad y eficiencia.
-
-- [Consultoría TIC](https://squareet.com/consultoria)  
-  Ofrecemos asesoría experta para implementar estrategias tecnológicas, modernizar infraestructuras e impulsar la competitividad de tu empresa.
+- [Consultoría TIC](https://www.squareet.com/consultoria-tecnologica)  
+- [Soluciones Tecnológicas Avanzadas](https://www.squareet.com/soluciones-tecnologicas-avanzadas)  
+- [Innovación y Desarrollo](https://www.squareet.com/innovacion-y-desarrollo)  
+- [Desarrollo de Aplicaciones Móviles](https://www.squareet.com/desarrollo-de-aplicaciones-para-moviles)  
+- [Diseño Optimizado de Interfaces](https://www.squareet.com/desarrollo-optimizado-de-interfaces)  
+- [Desarrollo de software a medida](https://www.squareet.com/desarrollo-de-software)  
+- [Integración de Sistemas](https://www.squareet.com/integracion-de-sistemas)  
+- [Optimización de Procesos](https://www.squareet.com/optimizacion-de-procesos)  
+- [Implementación de Estrategias](https://www.squareet.com/implementacion-de-estrategias)
 
 ## Sectores
 
-En Squareet trabajamos con empresas de diversos sectores, como:
-
-- [Startups](https://squareet.com/sectores/startups)  
-- [Retail](https://squareet.com/sectores/retail)  
-- [E-commerce](https://squareet.com/sectores/ecommerce)  
-- [Educación](https://squareet.com/sectores/educacion)  
-- [Sector Público](https://squareet.com/sectores/sector-publico)  
-
-¡Y muchos más! Cada proyecto es único y nos enorgullece adaptar nuestras soluciones a las necesidades de cada cliente.
+- [Movilidad](https://www.squareet.com/movilidad)  
+- [Construcción](https://www.squareet.com/contech)  
+- [Seguros](https://www.squareet.com/insurtech)  
+- [Eventos y formación](https://www.squareet.com/events)  
+- [Salud](https://www.squareet.com/healthtech)  
+- [Votaciones](https://www.squareet.com/votetech)  
+- [Digitalización 4.0](https://www.squareet.com/digitalization)  
+- [Social](https://www.squareet.com/social)
 
 ---
 
-¿Listo para llevar tu negocio al siguiente nivel? Ponte en contacto con nosotros en [Squareet](https://squareet.com) y comencemos a construir juntos el futuro de tu empresa.
+¿Listo para dar el salto tecnológico? Visita [Squareet](https://www.squareet.com) y descubre cómo podemos impulsar tu proyecto.
